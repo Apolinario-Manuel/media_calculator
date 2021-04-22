@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 
 <p align="center">
-  <img alt="screen" src="./screen.jpeg" width="100%">
+  <img alt="screen" src="./screen.jpeg" width="40%">
 </p>
 
 ## 💻 Projeto
